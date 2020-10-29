@@ -1,1 +1,2 @@
-This is new file after push of master 
+This is new file after push of master.
+This after pull.
